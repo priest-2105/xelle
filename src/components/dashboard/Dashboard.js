@@ -223,7 +223,7 @@ const Dashboard = () => {
 							{/* <!-- Divider --> */}
 							<hr className="navbar-divider my-5 opacity-20" />
 							{/* <!-- Navigation --> */}
-							<ul className="navbar-nav mb-md-4">
+							{/* <ul className="navbar-nav mb-md-4">
 								<li>
 									<div
 										onClick={() => console.log(blogs)}
@@ -309,7 +309,7 @@ const Dashboard = () => {
 										</div>
 									</a>
 								</li>
-							</ul>
+							</ul> */}
 							{/* <!-- Push content down --> */}
 							<div className="mt-auto"></div>
 							{/* <!-- User (md) --> */}

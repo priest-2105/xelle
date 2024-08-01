@@ -10,7 +10,7 @@ pipfile
 /coverage
 
 # production
-/build
+# /build
 
 # misc
 pipfile
