@@ -5,7 +5,7 @@
     <img src="./public/icon-192x192.png" width="100px" alt="">
   </a>
 
-  <h3 align="center">Xelle - We Care She Wins</h3>
+  <h3 align="center">Xelle -  Empowering You, Every Cycle</h3>
 
   <p align="center">
     <a href="https://xelle.netlify.app/" target="blank">Live Demo</a> |

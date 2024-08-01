@@ -27,7 +27,7 @@ export default function App() {
 					href="https://fonts.googleapis.com/css2?family=Khula:wght@400;600;800&display=swap"
 					rel="stylesheet"
 				/>
-				<title>Xelle | We Care She Wins</title>
+				<title>Xelle |  Empowering You, Every Cycle</title>
 			</Helmet>
 			<BrowserRouter>
 				<Routes>
