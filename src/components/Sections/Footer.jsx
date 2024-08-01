@@ -17,10 +17,10 @@ export default function Footer() {
         <div className="container">
           <InnerWrapper className="flexSpaceCenter" style={{ padding: "30px 0" }}>
             <Link className="flexCenter animate pointer" to="home" smooth={true} offset={-80}>
-              <img src="../" width={90} alt="logo" />
-              <h1 className="font15 extraBold whiteColor" style={{ marginLeft: "15px" , fontSize:"20px" }}>
+              <img src="/icon-256x256-light.png" width={90} alt="logo" />
+              {/* <h1 className="font15 extraBold whiteColor" style={{ marginLeft: "15px" , fontSize:"20px" }}>
                 Xelle
-              </h1>
+              </h1> */}
             </Link>
             <StyleP className="whiteColor font15">
               © {getCurrentYear()} - <span className="purpleColor font15" style={{cursor:"pointer"}}>Xelle</span> All Right Reserved

@@ -42,7 +42,7 @@
 }
 
 .course-preview {
-	background-color: #E52F8A;
+	background-color: #EC729C;
 	color: #fff;
 	padding: 30px;
 	max-width: 250px;
@@ -80,7 +80,7 @@
 
 .progress::after {
 	border-radius: 3px;
-	background-color: #E52F8A;
+	background-color: #EC729C;
 	content: "";
 	position: absolute;
 	top: 0;
@@ -96,7 +96,7 @@
 }
 
 .btnii{
-	background-color: #E52F8A;
+	background-color: #EC729C;
 	border: 0;
 	border-radius: 50px;
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);

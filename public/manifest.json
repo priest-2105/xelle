@@ -1,7 +1,7 @@
 {
   "name": "Xelle",
   "short_name": "Xelle",
-  "theme_color": "#E52F8A",
+  "theme_color": "#EC729C",
   "background_color": "#fff",
   "display": "standalone",
   "scope": "/",

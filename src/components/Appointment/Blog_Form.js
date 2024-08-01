@@ -114,7 +114,7 @@ const BlogForm = () => {
 							style={{
 								padding: "7px 20px",
 								background: "white",
-								color: "#E52F8A",
+								color: "#EC729C",
 								fontWeight: "600",
 								borderRadius: "10px",
 								cursor: "pointer",

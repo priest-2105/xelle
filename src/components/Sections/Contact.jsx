@@ -173,8 +173,8 @@ const Form = styled.form`
 	}
 `;
 const ButtonInput = styled.input`
-	border: 1px solid #e52f8a;
-	background-color: #e52f8a;
+	border: 1px solid #EC729C;
+	background-color: #EC729C;
 	width: 100%;
 	padding: 15px;
 	outline: none;

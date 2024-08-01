@@ -14,8 +14,8 @@ export default function FullButton({ title, action, border }) {
 }
 
 const Wrapper = styled.button`
-  border: 1px solid ${(props) => (props.border ? "#E52F8A" : "#E52F8A")};
-  background-color: ${(props) => (props.border ? "transparent" : "#E52F8A")};
+  border: 1px solid ${(props) => (props.border ? "#EC729C" : "#EC729C")};
+  background-color: ${(props) => (props.border ? "transparent" : "#EC729C")};
   width: 100%;
   padding: 15px;
   outline: none;

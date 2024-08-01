@@ -14,19 +14,19 @@ export default function ServiceBox({icon, title, subtitle}) {
 
   switch (icon) {
     case "roller":
-      getIcon = <FaBlogger size={50} color={"#E52F8A"} />;
+      getIcon = <FaBlogger size={50} color={"#EC729C"} />;
       break;
     case "monitor":
-      getIcon = <MdTrackChanges size={50} color={"#E52F8A"} />;
+      getIcon = <MdTrackChanges size={50} color={"#EC729C"} />;
       break;
     case "browser":
-      getIcon = <BsFillPatchExclamationFill size={50} color={"#E52F8A"} />;
+      getIcon = <BsFillPatchExclamationFill size={50} color={"#EC729C"} />;
       break;
     case "printer":
-      getIcon = <MdVolunteerActivism size={50} color={"#E52F8A"} />;
+      getIcon = <MdVolunteerActivism size={50} color={"#EC729C"} />;
       break;
     default:
-      getIcon = <MdScreenShare size={50} color={"#E52F8A"} />;
+      getIcon = <MdScreenShare size={50} color={"#EC729C"} />;
       break;
   }
 

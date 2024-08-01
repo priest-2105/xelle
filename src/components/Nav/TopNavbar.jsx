@@ -21,12 +21,12 @@ export default function TopNavbar() {
 				className="flexCenter animate whiteBg"
 				// style={y > 100 ? { height: "60px" } : { height: "80px" }}
 			>
-				<NavInner className="container flexSpaceCenter">
-					<Anc className="pointer flexNullCenter" smooth={true} to={"/"}>
+				<NavInner className="container flexSpaceCenter" >
+					<Anc className="pointer flexNullCenter" smooth={true} style={{padingTop:"50px"}} to={"/"}>
 						<LogoIcon />
-						<h1 style={{ marginLeft: "3px" }} className="font20 extraBold">
+						{/* <h1 style={{ marginLeft: "3px" }} className="font20 extraBold">
 							Xelle
-						</h1>
+						</h1> */}
 					</Anc>
 					<BurderWrapper
 						className="pointer"
@@ -84,15 +84,15 @@ export default function TopNavbar() {
 								Blogs
 							</Anc>
 						</li>
-						<li className="semiBold font15 pointer hover">
+						{/* <li className="semiBold font15 pointer hover">
 							<a
 								style={{ padding: "10px 15px", color: "black" }}
 								target="_blank"
-								href="https://donate.stripe.com/test_eVa8xv6m603J4Za148"
+								href=" "
 							>
 								Donate
 							</a>
-						</li>
+						</li> */}
 						<li className="semiBold font15 pointer hover">
 							<Link
 								activeclassName="active"

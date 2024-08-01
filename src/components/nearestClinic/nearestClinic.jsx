@@ -76,15 +76,15 @@ const NearClinic = () => {
 			</div> */}
 
 			{/* <!-- Banner --> */}
-			<a
-				href="https://donate.stripe.com/test_eVa8xv6m603J4Za148"
+			{/* <a
+				href=" "
 				target={"_blank"}
 				className="btn w-full btn-primary text-truncate rounded-0 border-0 position-relative"
-				style={{ zIndex: "1000", background: "#E52F8A", marginTop: "0px" }}
+				style={{ zIndex: "1000", background: "#EC729C", marginTop: "0px" }}
 			>
 				<strong>Heya Xellener : : </strong> Let's contribute to the community
 				donate now →
-			</a>
+			</a> */}
 
 			{/* <!-- Dashboard --> */}
 			<div className="d-flex flex-column flex-lg-row h-lg-full bg-surface-secondary">

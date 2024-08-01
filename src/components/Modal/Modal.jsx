@@ -67,13 +67,13 @@ const Modal = ({ setOpenModel }) => {
 			/>
 			<div className={"Model_box"} style={{ width: "40rem" }}>
 				<div className={"Model_box_heading"}>
-					<p style={{ color: "#E52F8A" }}>Set a Reminder</p>
+					<p style={{ color: "#EC729C" }}>Set a Reminder</p>
 					<div
 						className={"Model_box_heading_img"}
 						onClick={() => setOpenModel(false)}
 						style={{ cursor: "pointer" }}
 					>
-						<AiOutlineCloseSquare color="#E52F8A" size={50} />
+						<AiOutlineCloseSquare color="#EC729C" size={50} />
 					</div>
 				</div>
 
@@ -147,7 +147,7 @@ const Modal = ({ setOpenModel }) => {
 						style={{
 							padding: "7px 20px",
 							borderRadius: "7px",
-							background: "#E52F8A",
+							background: "#EC729C",
 							color: "white",
 						}}
 						onClick={uploadRemind}
