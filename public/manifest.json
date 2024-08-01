@@ -5,7 +5,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://shewin.netlify.app",
+  "start_url": "https://xelle.netlify.app",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",

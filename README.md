@@ -1,23 +1,23 @@
-<h1 align="center"><b>Shewin</b></h1>
+<h1 align="center"><b>Xelle</b></h1>
 
 <div align="center">
-  <a id="top" href="https://shewin.netlify.app/" target="blank">
+  <a id="top" href="https://xelle.netlify.app/" target="blank">
     <img src="https://user-images.githubusercontent.com/86917304/189530487-4f2eba29-9268-4801-9f4f-b2a9b03948a1.png" width="100px" alt="">
   </a>
 
-  <h3 align="center">Shewin - We Care She Wins</h3>
+  <h3 align="center">Xelle - We Care She Wins</h3>
 
   <p align="center">
-    <a href="https://shewin.netlify.app/" target="blank">Live Demo</a> |
-    <a href="https://github.com/Sreetama2001/SheWins-Period_Helper/issues" target="blank">Report Bug</a> |
-    <a href="https://github.com/Sreetama2001/SheWins-Period_Helper/issues" target="blank">Request Feature</a>
+    <a href="https://xelle.netlify.app/" target="blank">Live Demo</a> |
+    <a href="https://github.com/priest-2105/xelles/issues" target="blank">Report Bug</a> |
+    <a href="https://github.com/priest-2105/xelles/issues" target="blank">Request Feature</a>
   </p>
 </div>
 
 ---
 
 ## The motivation:
-A new report published by UNICEF and WaterAid found that more than a third of girls in South Asia miss school during their periods, mainly due to a lack of access to toilets and pads in schools and no proper education about menstruation. The UN has recognized menstrual hygiene as a global public health and human rights issue, globally 1.2 billion women lack access to basic sanitation and hygiene. So we decided to end the Period-Poverty and long-run stigma by educating girls and providing healthcare facilities to them.
+A new report published by UNICEF and WaterAid found that more than a third of girls in South Asia miss school during their periods, mainly due to a lack of access to toilets and pads in schools and no proper education about menstruation. The UN has recognized menstrual hygiene as a global public health and human rights issue, globally 1.2 billion women lack access to basic sanitation and hygiene. So I decided to end the Period-Poverty and long-run stigma by educating girls and providing healthcare facilities to them.
 
 <!-- <img
   src=""
@@ -31,9 +31,8 @@ A new report published by UNICEF and WaterAid found that more than a third of gi
 
 ## How it works :
 
-  We have here to modernized our women healthcare system by providing the personalized feedbacks, analysis, mood tracking, period cycle traking to  women, who hesitate because of their insecurities and long run social stigma.
   Through our platform she can `Track her Period Cycle`,  Get her `Mood Analysis` and she will also get to access the nearest hospitals and gynaecologists for their medical problems. Through our platform only user can `Schedule Appointments` with doctors and get consultancy at home only.
-  We also have the blog sections where the **Shewinners** can write the blogs to aware the world about different streotypes, Through this section we are giving a platform to showcase their knowledge and help each girl to contribute in a constructive manner in the society.
+  We also have the blog sections where the **Xelleners** can write the blogs to aware the world about different streotypes, Through this section we are giving a platform to showcase their knowledge and help each girl to contribute in a constructive manner in the society.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,7 +91,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 ## **Blogs Section**
-Here we list all the blogs published by all the shewinners to aware the society, share their experience and share their knowledge. This will come up as the platform where their is exchange of ideas.
+Here we list all the blogs published by all the Xelleners to aware the society, share their experience and share their knowledge. This will come up as the platform where their is exchange of ideas.
 
 ![image](https://user-images.githubusercontent.com/86917304/211190535-d7ca9136-b8e0-4dd8-b5ea-b57fda5d996c.png)
 
@@ -116,7 +115,7 @@ This is our feature where the user can tracker the upcoming period perdictions a
 ---
 
 ## Dashboard
-This is the place where **Shewinner** can excess the extra features and can get all the cummilative features and feedback at one place only with just a single click.
+This is the place where **Xellener** can excess the extra features and can get all the cummilative features and feedback at one place only with just a single click.
 
 ![image](https://user-images.githubusercontent.com/86917304/211191115-933a9ca5-3c04-405e-b236-fab6d3bff685.png)
 
@@ -145,11 +144,6 @@ This is the place where **Shewinner** can excess the extra features and can get 
         
         ![image](https://user-images.githubusercontent.com/86917304/211192155-8dad7292-36df-4efc-8c8e-516881732e2b.png)
 
-### Phone View
-- We going one step ahead we convert out website into the **PWA**, so that our user experience in mobile phones will be top notch and hence he/she can contribute as well as get extraodinary experience through our platform. 
-
-![image](https://user-images.githubusercontent.com/86917304/211190064-db56b99d-9fe6-47df-9e20-0a10db3c8c94.png)
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -170,25 +164,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Team Name - Hackit
-
-Leader - [Sreetama](mailto:fool100abc@gmail.com)
-
-Project Link: [Shewin](https://shewin.netlify.app)
-
-Video Link : [Shewin Demo Video](https://www.loom.com/share/462c7f86c84c499fa979a25336036709)
-
-## Team Members: 
-
-- [Sreetama Ghosh Hazar](https://github.com/Sreetama2001)
-- [Pranshu Jain](https://github.com/Pranshu321)
-- [Mohammad Sami Shaikh](https://github.com/MSamiDev)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
