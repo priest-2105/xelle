@@ -2,7 +2,7 @@
 
 <div align="center">
   <a id="top" href="https://xelle.netlify.app/" target="blank">
-    <img src="https://user-images.githubusercontent.com/86917304/189530487-4f2eba29-9268-4801-9f4f-b2a9b03948a1.png" width="100px" alt="">
+    <img src="./public/icon-192x192.png" width="100px" alt="">
   </a>
 
   <h3 align="center">Xelle - We Care She Wins</h3>
