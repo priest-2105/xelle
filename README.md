@@ -17,7 +17,7 @@
 ---
 
 ## The motivation:
-A new report published by UNICEF and WaterAid found that more than a third of girls in South Asia miss school during their periods, mainly due to a lack of access to toilets and pads in schools and no proper education about menstruation. The UN has recognized menstrual hygiene as a global public health and human rights issue, globally 1.2 billion women lack access to basic sanitation and hygiene. So I decided to end the Period-Poverty and long-run stigma by educating girls and providing healthcare facilities to them.
+A new report published by UNICEF and WaterAid found that more than a third of girls miss school during their periods, mainly due to a lack of access to toilets and pads in schools and no proper education about menstruation. The UN has recognized menstrual hygiene as a global public health and human rights issue, globally 1.2 billion women lack access to basic sanitation and hygiene. So I decided to end the Period-Poverty and long-run stigma by educating girls and providing healthcare facilities to them.
 
 <!-- <img
   src=""
