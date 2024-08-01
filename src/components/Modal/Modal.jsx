@@ -157,7 +157,7 @@ const Modal = ({ setOpenModel }) => {
 				</div>
 
 				<p className={"Model_box_para"} style={{ textAlign: "center" }}>
-					By Providing information, you agree to Shewin
+					By Providing information, you agree to Xelle
 					<br /> Terms of Service and consent to its Privacy Policy.
 				</p>
 			</div>

@@ -62,7 +62,7 @@ const Dashboard = () => {
 	return (
 		<>
 			<Helmet>
-				<title>{`Shewin | ${CurrentUser?.displayName} Dashboard`}</title>
+				<title>{`Xelle | ${CurrentUser?.displayName} Dashboard`}</title>
 			</Helmet>
 			{/* <!-- Banner --> */}
 			<a
@@ -70,7 +70,7 @@ const Dashboard = () => {
 				className="btn w-full btn-primary text-truncate rounded-0 border-0 position-relative"
 				style={{ zIndex: "1000", background: "#E52F8A", marginTop: "0px" }}
 			>
-				<strong>Heya Shewinner : : </strong> Let's contribute to the community
+				<strong>Heya Xellener : : </strong> Let's contribute to the community
 				donate now →
 			</a>
 

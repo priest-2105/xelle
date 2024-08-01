@@ -4,8 +4,8 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "https://xelle.netlify.app",
-    "name": "SheWin",
-    "short_name": "Shewin",
+    "name": "Xelle",
+    "short_name": "Xelle",
     "icons": [
         {
             "src": "/icon-192x192.png",

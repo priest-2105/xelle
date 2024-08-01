@@ -25,7 +25,7 @@ export default function TopNavbar() {
 					<Anc className="pointer flexNullCenter" smooth={true} to={"/"}>
 						<LogoIcon />
 						<h1 style={{ marginLeft: "3px" }} className="font20 extraBold">
-							Shewin
+							Xelle
 						</h1>
 					</Anc>
 					<BurderWrapper
